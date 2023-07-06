@@ -1,0 +1,13 @@
+print("Sequência de autodestruição iniciada...")
+
+from time import sleep
+sleep(1)
+
+Tempo = 11
+
+while (Tempo > 1):
+    Tempo -=1
+    print(f"Autodestruição em {Tempo}...")
+    sleep(1)
+
+print("BUUUUMMM!!!!")
