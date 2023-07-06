@@ -1,0 +1,4 @@
+for Andar in range(1, 21):
+    if Andar == 13:
+        continue
+    print("Andar - " + str(Andar))
