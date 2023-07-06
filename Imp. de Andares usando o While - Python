@@ -1,0 +1,6 @@
+Andar = 0
+while (Andar < 20):
+    Andar += 1
+    if Andar == 13:
+        continue
+    print("Andar - " + str(Andar))
