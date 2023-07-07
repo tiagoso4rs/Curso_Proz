@@ -1,0 +1,31 @@
+def opSoma(valor1, valor2):
+    total_Op = valor1 + valor2
+    print("Optando por soma o total é igual à", total_Op)
+
+def opSubtra(valor1, valor2):
+    total_Op = valor1 - valor2
+    print("Optando por subtração o total é igual à", total_Op)
+
+def opMulti(valor1, valor2):
+    total_Op = valor1 * valor2
+    print("Optando por multiplicação o total é igual à", total_Op)
+
+def opDiv(valor1, valor2):
+    total_Op = valor1 / valor2
+    print("Optando por divisão o total é igual à", total_Op)
+
+operadores = {1:opSoma, 2:opSubtra, 3:opMulti, 4:opDiv}
+
+while True:
+    valor1 = int(input('Digite o primeiro valor: '))
+    valor2 = int(input('Digite o segundo valor: '))
+    operacao = int(input('Digite a operação desejada (SOMA - 1, SUBTRAÇÃO - 2, MULTIPLICAÇÃO - 3 , DIVISÃO - 4 : '))
+
+    if operacao in operadores:
+        operadores[operacao](valor1, valor2)
+    else:
+        print("Operação inválida. Digite apenas os números 1/2/3/4")
+
+    reiniciar = input("Deseja realizar mais um cálculo? s/n?")
+    if reiniciar.lower() == "n":
+        break
