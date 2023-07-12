@@ -1,0 +1,22 @@
+atual = 2023
+calc1 = (atual+1)
+
+while True:
+    while True:
+        try:
+            ano_nasc = int(input("Digite o ano de seu nascimento: "))
+            break
+        except ValueError:
+            print("Só aceitamos apenas números.")
+
+    if ano_nasc <= 1922:
+        print("Digite idade corretamente!")
+    elif ano_nasc >= 2021:
+        print("Digite idade corretamente!")
+    else:
+        nome1 = input("Digite seu nome: ")
+        print("Seu nome é", nome1, "e ano que vem você terá", calc1 - ano_nasc, "anos")
+
+    continuar = input("Deseja continuar? (S/N): ")
+    if continuar.lower() != 'S':
+        break
