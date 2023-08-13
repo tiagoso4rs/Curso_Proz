@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Documento </title>
+    
+</head>
+<body>
+<header>
+    <span> EuroTour</span>    
+    <nav>
+        <ul>
+            <li>Passagens   </li>
+            <li>Hospedagens   </li>
+            <li>Pontos Turísticos</li>
+        </ul>
+</nav>
+</header>
+<p> Bem vindo a EuroTour</p>
+<br>
+<p>Sobre nós</p>
+<br>
+<br><p>EuroTour é um site que ajuda você a planejar sua viagem para Europa, desde a compra das passagens,
+    até a visita aos pontos turísticos mais importantes de cada região! </p> <br>
+
+    <h3>Inglaterra</h3>
+    <p> <h4> London Eye</h4> </p>
+    <article>A London Eye, "Olho de Londres", também conhecida como Millennium Wheel, é uma roda-gigante de observação. <br>
+    Situada na cidade de Londres, da Inglaterra, foi inaugurada na passagem entre o dia 31 de dezembro de 1999 e 1 de janeiro de 2000 e é um dos pontos turísticos mais disputados da cidade.</article>
+    </article><br>
+    <img src="https://www.dicasdeviagem.com/wp-content/uploads/2019/08/london-eye-londres.jpg" width="350"
+    <br>
+
+    <h3>Itália</h3>
+    <p> <h4> Sicília</h4> </p>
+
+    <article>Sicília, a maior ilha do Mediterrâneo, fica perto do "dedo" da "bota" da Itália. 
+        Sua história se reflete em lugares como o Vale dos Templos, as ruínas bem conservadas de 7 templos gregos monumentais em estilo dórico e os mosaicos bizantinos da Cappella Palatina, antiga capela real na capital, Palermo. 
+        No extremo leste da Sicília está o Etna, um dos vulcões ativos mais altos da Europa.</article>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSEnSa0zDHis0OtP61BDZKwdFVDFUg-2JsKl1phfPsFPJCNQiO49aZDaEHqG6dtgWKLYcysSKpxQCR66pRMyeu0wJu08g" width="350"
+
+<br>
+
+ <h3>Alemanha</h3>
+    <p> <h4> Munique</h4> </p>
+
+<article> Munique, capital da Bavária, abriga prédios centenários e inúmeros museus. A cidade é conhecida pela celebração anual Oktoberfest e pelas cervejarias, inclusive a famosa Hofbräuhaus, fundada em 1589. Na Altstadt (Cidade Velha), a praça central Marienplatz contém pontos turísticos como o Neues Rathaus (paço municipal) neogótico com um famoso espetáculo de glockenspiel que ressoa e reencena histórias do século 16 </article>
+
+
+<br>
+<footer>
+<p> EuroTour®</p> 
+<br>
+<p>Instagram</p><br>
+<p>Facebook</p><br>
+<p>LinkedIn</p><br>
+</footer>
+
+<link rel="stylesheet" href="style.css">
+
+</html>
