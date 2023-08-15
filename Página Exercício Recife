@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Recife </title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <header>
+        <span> <strong>EuroTour</strong></span>    
+        <nav>
+            <ul>
+                <li>Passagens   </li>
+                <li>Hospedagens   </li>
+                <li>Pontos Turísticos</li>
+            </ul>
+    </nav>
+    </header>
+    <p> Bem vindo a EuroTour</p>
+    <br>
+    <p>Sobre nós</p>
+    <br>
+    <br><p>EuroTour é um site que ajuda você a planejar sua viagem para Europa, desde a compra das passagens,
+        até a visita aos pontos turísticos mais importantes de cada região! </p> <br>
+    
+        <h3><strong> Recife </strong></h3>
+        <p> <h4> <i> Recife: descubra quais são os principais encantos </i></h4> </p>
+        <article>Recife, a capital do estado de Pernambuco, no nordeste do Brasil, distingue-se pelos seus vários rios, pontes, ilhéus e penínsulas. 
+          Recife Antigo, na própria ilha junto ao porto, é o centro histórico da cidade antiga que data do século XVI. A sul, a popular Praia de Boa Viagem é protegida por recifes e está ladeada de blocos de apartamentos elevados, hotéis modernos e restaurantes.</article><br>
+        <img src="https://revistaazul.voeazul.com.br/wp-content/uploads/2023/03/Recife-1.jpg" width="350">
+</body>
+
+<footer>
+
+  <ul>
+    <li>WhatsApp  </li>
+    <li>Facebook   </li>
+    <li>Instagram  </li>
+</ul>
+
+</footer>
+
+</html>
